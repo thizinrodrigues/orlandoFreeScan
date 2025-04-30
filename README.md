@@ -4,7 +4,7 @@
   <img src="Orlando_free_Scan.png" alt="Orlando Free Scan" width="300"/>
 </p>
 
-<h1 align="center">🌌 Orlando Free Scan</h1>
+<h1 align="center">Orlando Free Scan</h1>
 <p align="center">Monitoramento de IPs com interface gráfica</p>
 
 ---
@@ -14,7 +14,7 @@
 - ✅ Verificação de múltiplos IPs com ping.
 - 💻 Exibição de hostname automaticamente.
 - 📁 Geração automática de relatórios em `.txt`.
-- 🖼️ Interface amigável com visual temático Star Wars.
+- 🖼️ Interface amigável.
 - ⏱️ Controle de tempo de execução e intervalo entre verificações.
 - 🟢 Indicador de status visual direto na interface.
 - 📂 Botão para abrir o relatório diretamente do app.
@@ -40,10 +40,14 @@
 
 ```bash
 git clone https://github.com/thizinrodrigues/orlandoFreeScan.git
-cd orlando-free-scan
-python monitor.py
+python orlando_free_scan.py
 
-RELATÓRIO DE MONITORAMENTO DE IPs
+Ou utilize o executavel da aplicação
+
+---
+
+## 🧰 RELATÓRIO DE MONITORAMENTO DE IPs
+
 Relatório gerado em: 2025-04-29 10:23:45
 
 IPs Monitorados:
