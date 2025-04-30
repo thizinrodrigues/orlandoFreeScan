@@ -1,7 +1,7 @@
 # OrlandoFreeScan
 
 <p align="center">
-  <img src="c857d442-a039-4031-bf81-5061bb1dbb21.png" alt="Orlando Free Scan" width="300"/>
+  <img src="Orlando_free_Scan.png" alt="Orlando Free Scan" width="300"/>
 </p>
 
 <h1 align="center">🌌 Orlando Free Scan</h1>
