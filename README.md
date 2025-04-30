@@ -42,7 +42,7 @@
 git clone https://github.com/thizinrodrigues/orlandoFreeScan.git
 python orlando_free_scan.py
 
-Ou utilize o executavel da aplicação
+Ou utilize o executável da aplicação.
 
 ---
 
