@@ -1,5 +1,3 @@
-# OrlandoFreeScan
-
 <p align="center">
   <img src="Orlando_free_Scan.png" alt="Orlando Free Scan" width="300"/>
 </p>
