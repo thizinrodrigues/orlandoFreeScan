@@ -24,7 +24,7 @@
 ## 📷 Screenshot
 
 <p align="center">
-  <img src="Orlando_free_Scan.png" alt="Interface Orlando Free Scan" width="600"/>
+  <img src="aplicacao.png" alt="Interface Orlando Free Scan" width="600"/>
 </p>
 
 ---
