@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">🌌 Orlando Free Scan</h1>
-<p align="center">Monitoramento de IPs com interface gráfica e tema Star Wars</p>
+<p align="center">Monitoramento de IPs com interface gráfica</p>
 
 ---
 
